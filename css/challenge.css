@@ -19,6 +19,9 @@
 
 /* relatively position header image inside header element using CSS here */
 #header-image {
+    position: relative;
+    top: 150px;
+    left: 30px;
 
   
 }
