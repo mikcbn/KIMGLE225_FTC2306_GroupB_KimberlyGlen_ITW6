@@ -3,7 +3,9 @@
     bottom right hand side of the screen 
 */
 #back-to-top {
-
+        position: fixed;
+        bottom: 80px;
+        right: 80px;
 }
 
 /* Write CSS here to make navbar sticky to the top of the page */
