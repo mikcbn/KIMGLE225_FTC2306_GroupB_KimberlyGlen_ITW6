@@ -23,8 +23,10 @@
 /* relatively position header image inside header element using CSS here */
 #header-image {
     position: relative;
-    display: flex;
+    display: block;
+    max-width: 100%;
     top: 150px;
-    left: 30px;  
+    left: 30px;
+    object-fit: contain;  
 }
 
